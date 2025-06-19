@@ -1,0 +1,103 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 10,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "ca-app-pub-3940256099942544/6300978111",
+        "AdMobInterstitial"   : "ca-app-pub-3940256099942544/1033173712",
+        "AdMobNative"         : "ca-app-pub-3940256099942544/2247696110",
+        "AdMobOpenAd"         : "ca-app-pub-3940256099942544/9257395921",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": true,
+    "adList": [
+      {
+        "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "MAHMOUD ABDULAZIZ",
+      "packageName": "com.mahmoud.abdulazizz1.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/FX2EWgWg_pwSIVPYXneHrdPQBhSbCkyTjjAYawG3uO52diayOciDIQC0eaSddRnr1wM=w240-h480-rw",
+      "download": "+500K"
+    },
+    {
+      "name": "NASRI MOUHAMED Album 1",
+      "packageName": "com.nasri.mohamed1.soousa",
+      "icon": "https://play-lh.googleusercontent.com/Iz_2uLRQJh1PYN-u_aLxBxmRSOpzbWilZ6UyCWRqcQ134OqZ3MyS1xoEbclHjttRKHs=w240-h480-rw",
+      "download": "+400K"
+    },
+    {
+      "name": "NASRI MOUHAMED Album 2",
+      "packageName": "com.nasri.mohamed2.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/7Jr12EL-03wr63pTmwnttZKv1q55gUHT_ZtDomBc5mctWBnV1w4_ofqnM8DxPlonxAA=w240-h480-rw",
+      "download": "+600K"
+    },
+    {
+      "name": "HUSSEIN ALSADEQ",
+      "packageName": "com.hussein.alsadiq.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/b5weSxFKDxMyyU72XCU7vicVHHDdWft_INaFfxPNZ996C8INowpan_vakbALj5i224Y=w240-h480-rw",
+      "download": "+550K"
+    },
+    {
+      "name": "MOHAMAD ALAMIN",
+      "packageName": "com.aohamed.alamin.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/9xMLO4ENJSaUU4CaZib-HD7KBIZAju6hR-SNQ08ndU0I4cGETJJ6sGYD7CEciFKbdpw=w240-h480-rw",
+      "download": "+300K"
+    },
+    {
+      "name": "MAYADA GAMARDDIN",
+      "packageName": "com.mayada.gamarddin.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/CnDjiacM_ImdefjaLVE7z1ASipGFaxDHHWGYriOk9QbKKCVyhXJ3wSqGsRjZ5Mw69RQ=w240-h480-rw",
+      "download": "+480K"
+    },
+    {
+      "name": "ASIA BANNA",
+      "packageName": "com.asia.banna.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/kvv5oPZokAvDm6wO6DmHRYFFKjLWsAoY7vUtyE0XKLg9uHcc7u2bOVbrwj2FPZ_QQw=w240-h480-rw",
+      "download": "+520K"
+    },
+    {
+      "name": "AHMED AMIN",
+      "packageName": "com.ahmed.amin.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/h26Vk-502LXZuUHitWslFxDryYiawjJNB9zCNTNijKNfih5pWpoSYsk56LShqku8OQ=w240-h480-rw",
+      "download": "+850K"
+    }
+  ]
+  
+}
