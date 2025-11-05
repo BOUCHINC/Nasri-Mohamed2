@@ -37,14 +37,44 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : false,
-    "showClose": false,
+    "showPop"  : true,
+    "showClose": true,
     "adList": [
       {
-        "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
-        "title": "Good new ! we added new app check it !",
+        "preview": "https://play-lh.googleusercontent.com/Z8-fSAHnPrJLAwtyrWFxrck1Zzc1UH0zonHi3OhAcAu9LreRgsPoCWM6rQHQx1QugQ=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
         "button_title": "Install now",
-        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+        "button_url": "https://play.google.com/store/apps/details?id=com.nasri.mohamed1.soousa"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/9SeYvU3w3iTX7LZ5xBML-94PNHUoXCSwkgfXWAWp75eoTMlrHHofMo4VFN-mCemaExp5=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.mahmoud.abdulazizz1.hugetech"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/xAubM0IdVv1_rB_2g-290R6pGNnsSujvIhTIF4ZP23a6BHdsNwclJw4wSo5umv9ZvA=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.aohamed.alamin.hugetech"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/Ba8cZjs9XcBTBuyf-bPSMolO-wkjhKWSFTa359kLS3ab2IaHEndRzVKXC7SlMpMAAqE=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.hussein.alsadiq.hugetech"
+      },
+	  {
+        "preview": "https://play-lh.googleusercontent.com/1PocP_oJYtI7gs2_h_4wUKRIZD2Prr9zj1-RsSQXMjhbBzGaOQGsBNjNLgdKzfCArNjc=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.mayada.gamarddin.hugetech"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/c83hl-qhBIsLrFmiU1JhogqPChMb9Pm0_LcT7bP1SlLnuEBUmZjZyzYXOb6aBRos5zC2IrQAQN2TTs_VNjhifQ=w526-h296-rw",
+        "title": "أخبار جيدة ! لقد أضفنا تطبيقًا جديدًا تحقق منه",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.hooom.scapes1.frastudio"
       }
     ]
   },
